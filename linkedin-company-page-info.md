@@ -23,8 +23,7 @@ RenalPaw Therapeutics
 linkedin.com/company/renalpaw-therapeutics
 
 **Website**  
-Use your Netlify public website URL, for example:  
-https://renalpaw-therapeutics.netlify.app
+https://6a31593e8ed2174e5ff7c917--venerable-stardust-74db3d.netlify.app/
 
 **Industry**  
 Biotechnology Research
